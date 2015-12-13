@@ -9,7 +9,7 @@ MetaDataFormat = "yaml"
     name = "Qinchao Liao"
 
 [indexes]
-    tag = "tags"
+    tag = "python,django,html,jquery"
     topic = "topics"
 [params]  
   themeColor = "theme-base-0c"
